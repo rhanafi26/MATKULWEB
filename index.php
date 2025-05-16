@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="ind">
 <head>
@@ -16,4 +15,3 @@
     </ul>
 </body>
 </html>
-?>
